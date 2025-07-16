@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: sammek/bankapp:v4
+        image: sammek/bankapp:v5
         ports:
         - containerPort: 8080
         env:
